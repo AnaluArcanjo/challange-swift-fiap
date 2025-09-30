@@ -3,11 +3,13 @@
   padding: 0;
 }
 
-.teste {
+/* so pra dar rolagem para tela  */
+.container-principal {
   height: 150vh; 
 
 }
 
+/* cabeçalho (INICIO) */
 .estetica-cabecalho{
 
   background-color: #DC4405;
@@ -23,11 +25,9 @@
   align-items: center;
 }
 
-.estetica-cabecalho .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+/* cabeçalho (FIM) */
+
+/* bolha navbar (INICIO) */
 
 .bolha-navbar {
   position: fixed;
@@ -41,7 +41,7 @@
   background-color: #DC4405 ;
   border-radius: 30px;
   width: 80vh;
-  height: 65px;
+  height: 55px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -84,6 +84,10 @@
     }
 }
 
+/* bolha navba (FIM) */
+
+/* Rodape (INICIO) */
+
 .rodape{
   
   background-color: #DC4405;
@@ -91,3 +95,5 @@
   height: 40vh;
 
 }
+
+/* Rodape (FIM) */

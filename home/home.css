@@ -25,15 +25,9 @@
   align-items: center;
 }
 
-.estetica-cabecalho .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 /* cabeçalho (FIM) */
 
-/* Navbar (INICIO) */
+/* bolha navbar (INICIO) */
 
 .bolha-navbar {
   position: fixed;
@@ -47,7 +41,7 @@
   background-color: #DC4405 ;
   border-radius: 30px;
   width: 80vh;
-  height: 65px;
+  height: 55px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -90,7 +84,7 @@
     }
 }
 
-/* Navbar (FIM) */
+/* bolha navbar (FIM) */
 
 /* Rodape (INICIO) */
 
